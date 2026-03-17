@@ -1,0 +1,18 @@
+# Visual Studio 临时文件
+.vs/
+*.sln
+*.user
+*.filters
+
+# 编译输出
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.ilk
+
+# 其他临时文件
+*.log
+*.tmp
+*.cache
